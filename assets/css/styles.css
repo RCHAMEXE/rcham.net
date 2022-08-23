@@ -82,7 +82,7 @@ img {
   position: absolute;
   top: 1.5rem;
   right: 0;
-  font-size: 1.25rem;
+  font-size: 2em;
   color: var(--title-color);
   cursor: pointer;
   transition: .3s;
